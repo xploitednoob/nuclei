@@ -20,7 +20,7 @@ jobs:
           urls: urls.txt
           flags: "-severity critical,high -stats -v"
           github-report: true
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.TOKEN }}
 
       - name: GitHub Workflow artifacts
         uses: actions/upload-artifact@v2
