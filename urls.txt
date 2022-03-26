@@ -97,4 +97,3 @@ pas-pool138.andover.edu
 pa-pool131.andover.edu
 cas1.andover.edu
 meetandover.andover.edu
-giving.andover.edu
