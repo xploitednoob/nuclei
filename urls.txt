@@ -1,1 +1,15 @@
-https://amerijet.com/
+https://claims.amerijet.com
+https://mycargo-prod.amerijet.com
+https://backoffice.amerijet.com
+https://geneva.amerijet.com
+https://sip.amerijet.com
+https://pm6api-prod.amerijet.com
+https://mycargo.amerijet.com
+https://securemail.amerijet.com
+https://support.amerijet.com
+http://amerijet.com
+https://manuals.amerijet.com
+https://training.amerijet.com
+http://blog.amerijet.com
+http://wp-prod.amerijet.com
+http://www.amerijet.com
