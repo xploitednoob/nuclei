@@ -18,7 +18,7 @@ jobs:
         uses: projectdiscovery/nuclei-action@main
         with:
           urls: urls.txt
-          flags: "-t 	default-logins takeovers -tags rce wp-plugin wordpress -stats -v"
+          flags: "-t default-logins takeovers -tags rce wp-plugin wordpress -stats -v"
           github-report: true
           github-token: ${{ secrets.TOKEN }}
 
